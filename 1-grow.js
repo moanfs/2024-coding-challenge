@@ -1,5 +1,7 @@
-// function declaration
+// day 1/365 coding challenge 2024 
+// https://www.codewars.com/kata/57f780909f7e8e3183000078/solutions/javascript
 
+// function declaration
 // function grow(x){
 //     let result = x[0];
 
