@@ -1,5 +1,7 @@
-// day 2/365 coding challenge 2024
+// day 2/366 coding challenge 2024
 // https://www.codewars.com/kata/59ca8246d751df55cc00014c/train/javascript
+
+
 // function hero(bullets, dragons){
 //     //Get Coding!
 //     if(bullets /2 >= dragons){
