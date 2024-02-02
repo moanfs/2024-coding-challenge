@@ -1,4 +1,4 @@
-// day 5/365 coding challenge 2024
+// day 5/366 coding challenge 2024
 // https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript
 
 // const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
