@@ -1,4 +1,4 @@
-// day 2/365 coding challenge 2024
+// day 2/366 coding challenge 2024
 // https://www.codewars.com/kata/5a00e05cc374cb34d100000d/solutions/javascript
 
 // const reverseSeq = n => {
