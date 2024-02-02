@@ -1,4 +1,4 @@
-// day 5/366 coding challenge 2024
+// day 6/366 coding challenge 2024
 // https://www.codewars.com/kata/5556282156230d0e5e000089/train/javascript
 
 // function DNAtoRNA(dna) {
