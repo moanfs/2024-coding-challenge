@@ -1,4 +1,4 @@
-// day 2/365 coding challenge 2024
+// day 4/366 coding challenge 2024
 // https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript
 
 // function smash (words) {
